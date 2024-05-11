@@ -17,4 +17,4 @@ In the Pokémon Analysis project, we delve into the depths of Pokémon data to e
 - **Matplotlib**: Our artist, painting the story of data through visualization.
 
 ## 📷 Graphs
- [Cumulative Pokémon Count by Generation](images/graph1.png)
+<img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph1.png" height="450" alt="Cumulative Pokémon Count by Generation">
