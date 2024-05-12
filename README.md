@@ -18,6 +18,6 @@ In the Pokémon Analysis project, we delve into the depths of Pokémon data to e
 
 ## 📷 Graphs
 <img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph1.png" height="450" alt="Number of new pokemon added by generation">
-<img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph2.png" height="450" width="1000" alt="differences between legendary and non-legendary pokemon">
-<img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph3.png" height="450" width="1100" alt="Pokemon type matchup">
+<img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph2.png" height="450" width="900" alt="differences between legendary and non-legendary pokemon">
+<img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph3.png" height="450" width="950" alt="Pokemon type matchup">
 <img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph4.png" height="450" width="960"alt="Most common dual-type pokemon combinations">
