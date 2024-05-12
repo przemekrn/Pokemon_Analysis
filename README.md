@@ -18,3 +18,6 @@ In the Pokémon Analysis project, we delve into the depths of Pokémon data to e
 
 ## 📷 Graphs
 <img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph1.png" height="450" alt="Cumulative Pokémon Count by Generation">
+<img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph2.png" height="450" alt="Cumulative Pokémon Count by Generation">
+<img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph3.png" height="450" alt="Cumulative Pokémon Count by Generation">
+<img src="https://github.com/przemekrn/Pokemon_Analysis/blob/main/images/graph4.png" height="450" alt="Cumulative Pokémon Count by Generation">
